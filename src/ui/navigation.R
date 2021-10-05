@@ -1,0 +1,3 @@
+navigationPanel <- function() {
+  #' To fill
+}
